@@ -1,8 +1,6 @@
 import React from "react";
 import Title from "../Title/Title";
 import Button from "../Button/Button";
-import Input from "../Input/Input";
-import TextArea from "../Input/TextArea";
 import ChatIcon from "../Icones/ChatIcon";
 import WhatsappIcon from "../Icones/WhatsappIcon";
 import Form from "../Form/Form";
@@ -30,18 +28,6 @@ const Contato = () => {
           </div>
         </div>
         <Form/>
-        {/* <form className="w-full md:w-1/2 flex flex-col items-center space-y-4">
-          <Input name="name" type="text" placeholder="Seu Nome" />
-          <Input name="email" type="email" placeholder="Seu Email" />
-          <TextArea
-            name="message"
-            id="message"
-            cols="20"
-            rows="4"
-            placeholder="Mensagem"
-          />
-          <Button type="submit">Enviar Mensagem</Button>
-        </form> */}
       </div>
     </section>
   );

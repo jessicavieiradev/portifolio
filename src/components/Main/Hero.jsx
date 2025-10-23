@@ -46,23 +46,23 @@ export default function Hero() {
         </div>
         <div className="flex flex-wrap justify-center md:grid md:grid-cols-2 gap-4">
           <img
-            src="../../../public/images/HTML5.png"
+            src="/images/HTML5.png"
             className="h-12 w-12 md:h-24 md:w-24 rounded-lg"
           />
           <img
-            src="../../../public/images/CSS3.png"
+            src="/images/CSS3.png"
             className="h-12 w-12 md:h-24 md:w-24 rounded-lg md:mt-12"
           />
           <img
-            src="../../../public/images/JavaScript.png"
+            src="/images/JavaScript.png"
             className="h-12 w-12 md:h-24 md:w-24 rounded-lg"
           />
           <img
-            src="../../../public/images/TailwindCSS.png"
+            src="/images/TailwindCSS.png"
             className="h-12 w-12 md:h-24 md:w-24 rounded-lg md:mt-12"
           />
           <img
-            src="../../../public/images/React.png"
+            src="/images/React.png"
             className="h-12 w-12 md:h-24 md:w-24 rounded-lg "
           />
         </div>
