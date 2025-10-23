@@ -38,7 +38,7 @@ export default function Hero() {
               <CheckIcon /> Disponível para trabalho
             </span>
           </div>
-          <Button><a href="#">Baixar Curriculo</a></Button>
+          <Button><a href="/curriculo/JessicaVieiraFrontend.pdf" target="_blank" rel="noopener noreferrer">Baixar Curriculo</a></Button>
           <div className="flex space-x-4 justify-center md:justify-start">
             <GithubIcon href="https://github.com/jessicavieiradev" />
             <LinkedInIcon href="https://www.linkedin.com/in/jessica-vieira-ba6306215" />

@@ -5,7 +5,7 @@ import Contato from './Contato'
 
 export default function Main() {
   return (
-    <main className="container mx-auto mt-12 md:mt-32">
+    <main className="container mx-auto pt-12 md:pt-32 bg-fundo-principal">
       <Hero />
       <Projects />
       <Contato />

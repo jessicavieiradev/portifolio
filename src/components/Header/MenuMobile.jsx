@@ -20,7 +20,13 @@ export default function MenuMobile() {
                 <a href="">Projetos</a>
               </li>
               <li>
-                <a href="">Curriculo</a>
+                <a
+                  href="/curriculo/JessicaVieiraFrontend.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Baixar Curriculo
+                </a>
               </li>
               <li>
                 <a href="">Contato</a>
