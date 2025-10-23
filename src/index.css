@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  /* Paleta Pastel Lilás */
+  --color-fundo-principal: #f2f0f9; /* Lilás Pálido (Base muito clara) */
+  --color-fundo-destaque: #d8bfd8; /* Lavanda Suave (Cards, seções) */
+
+  --color-acento-primario: #542673; /* Violeta Médio (Títulos, botões) */
+  --color-texto-principal: #3e3d3d; /* Roxo Profundo (Melhor legibilidade) */
+
+  /* colores de Contraste */
+  --color-contraste-claro: #ffffff; /* Branco Puro (Texto em fundos escuros) */
+  --color-acento-secundario: #e1f0c4; /* Menta Pastel (Gráficos, acentos visuais) */
+}
