@@ -32,8 +32,8 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           server-dir: ${{ secrets.FTP_PATH }}
           local-dir: './dist/*'
-          protocol: ftps
-          port: 21
+          protocol: sftp
+          port: 22
           delete-removed: true
           ftp-mode: passive 
           log-level: verbose
