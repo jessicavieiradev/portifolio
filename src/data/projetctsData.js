@@ -28,5 +28,5 @@ export const projects = [
     technologies: ["Wordpress", "Elementor", "Woocommerce"],
     demoLink: "https://audiophile.jessicavieiradev.com",
     githubLink: "",
-  },
+  }
 ];
