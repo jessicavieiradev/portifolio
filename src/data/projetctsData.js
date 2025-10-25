@@ -19,4 +19,14 @@ export const projects = [
     demoLink: "https://jessicavieiradev.github.io/sunnyside/",
     githubLink: "https://github.com/jessicavieiradev/sunnyside",
   },
+  {
+    id: 3,
+    title: "Audiophile",
+    description:
+      "Site criado com Wordpress, Elementor e WooCommerce utilizando um templete do Figma fornecido pelo Front-End Mentor",
+    imageUrl: "../images/audiophile.png",
+    technologies: ["Wordpress", "Elementor", "Woocommerce"],
+    demoLink: "https://audiophile.jessicavieiradev.com",
+    githubLink: "",
+  },
 ];
