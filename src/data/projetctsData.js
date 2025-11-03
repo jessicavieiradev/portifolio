@@ -28,5 +28,15 @@ export const projects = [
     technologies: ["Wordpress", "Elementor", "Woocommerce"],
     demoLink: "https://audiophile.jessicavieiradev.com",
     githubLink: "",
-  }
+  },
+  {
+    id: 4,
+    title: "Site Receitas React",
+    description:
+      "Site criado com React, Tailwind e typescript consumindo a api do dummyJson para exibir receitas.",
+    imageUrl: "../images/paginaReceitas.jpeg",
+    technologies: ["React", "Tailwind", "Typescript"],
+    demoLink: "https://jessicavieiradev.github.io/siteReceitasReact/",
+    githubLink: "https://github.com/jessicavieiradev/siteReceitasReact",
+  },
 ];
